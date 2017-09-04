@@ -1,0 +1,39 @@
+{
+  LargeDisplayFont = "Sans:pixelsize=24";
+  HighlightColor = "#ffffff";
+  MenuTextExtendSpace = 0;
+  FTitleColor = "#343434";
+  MenuTitleExtendSpace = 0;
+  MenuTextFont = "Sans:pixelsize=12";
+  WorkspaceBack = (
+    tpixmap,
+    "/opt/artwork/sparky-desktop.png",
+    gray20
+  );
+  UTitleBack = (mdgradient, "#1d1a1d", "#f3f3f3", "#9a9a9a");
+  NormalCursor = (builtin, left_ptr);
+  IconTitleFont = "Sans:pixelsize=9";
+  PTitleBack = (mdgradient, "#000000", "#ccc8c5", "#9a9a9a");
+  WindowTitleFont = "Sans:weight=200:pixelsize=12";
+  UTitleColor = "#424242";
+  MenuDisabledColor = "#666666";
+  ClipTitleFont = "Sans:bold:pixelsize=10";
+  MenuStyle = flat;
+  MenuTextBack = (mdgradient, "#1d1a1d", "#f2f2f2", "#c8c8c8");
+  PTitleColor = "#ffffff";
+  IconBack = (tpixmap, "wmIcon_porcelain.png", "#000000");
+  MenuTitleBack = (mdgradient, "#1d1a1d", "#9d9d9d", "#ffffff");
+  DisplayFont = "Sans:pixelsize=12";
+  FTitleBack = (mdgradient, "#000000", "#ffffff", "#dfdfdf");
+  WindowTitleExtendSpace = 0;
+  TitleJustify = center;
+  CClipTitleColor = "rgb:61/61/61";
+  ResizebarBack = (mdgradient, "#1d1a1d", "#9d9d9d", "#ffffff");
+  MenuTextColor = "#313131";
+  ClipTitleColor = black;
+  IconTitleBack = "#384246";
+  HighlightTextColor = "#000000";
+  IconTitleColor = white;
+  MenuTitleFont = "Sans:bold:pixelsize=12";
+  MenuTitleColor = "#424242";
+}
